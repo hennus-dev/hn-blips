@@ -32,7 +32,7 @@ Colors: https://docs.fivem.net/docs/game-references/blips/#blip-colors
 ## Authors
 ![Logo](https://i.imgur.com/a5rMYqb.png)
 
-- [@Lazarus-dev](https://github.com/hennus-dev)
+- [@Hennu`s dev](https://github.com/hennus-dev)
 - [@hakos](https://github.com/hakos47)
 
 
